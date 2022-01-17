@@ -8,14 +8,9 @@ int main()
 int a, b;
 cout << "Enter A and B: ";
 cin >> a >> b;
-<<<<<<< HEAD
 cout << "A + B = " << a + b << '\n'
      << "A - B = " << a + b << '\n'
      << "A + B = " << a + b << '\n';
 
-=======
-cout << "A + B =" << a + b << '\n'
-cout << "A - B =" << a + b << '\n'
-cout << "A / B =" << a + b << '\n';
->>>>>>> division
+
 }
