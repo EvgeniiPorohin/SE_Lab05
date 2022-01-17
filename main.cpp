@@ -1,3 +1,4 @@
+/*proga uchebnai*/
 #include <iostream>
 
 using namespace std;
